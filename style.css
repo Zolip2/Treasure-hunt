@@ -1,0 +1,81 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/wp5437792.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+#doboz {
+    border: black 3px solid;
+    display: flex;
+    display: block;
+    align-items:flex-start;
+    background-color: red;
+    min-width: 0px;
+    min-height: 0px;
+   }
+
+#soregy {
+    border: 3px black solid;
+    color: white;
+    margin-right: 83%;
+    position: relative;
+    left: 550px;
+}
+
+#sorketto {
+    border: 3px black solid;
+    color: white;
+    margin-right: 83%;
+    position: relative;
+    left: 550px;
+}
+
+#sorharomketto {
+    border: 3px black solid;
+    color: white;
+    margin-right: 91.8%;
+    position: relative;
+    left: 550px;
+}
+
+#sorharomharom {
+    border: 3px black solid;
+    color: white;
+    margin-right: 96%;
+    position: relative;
+    left: 665px;
+    top: -60px;
+}
+
+#sorharomharom:hover {
+    color: orange;
+}
+
+#sorharomnegy {
+    border: 3px black solid;
+    color: white;
+    margin-right: 96%;
+    position: relative;
+    left: 725px;
+    top: -118px;
+}
+
+#valaszlabel {
+    color: orange;
+    position: relative;
+    left: 550px;
+    font-size: 25px;
+}
+
+#valasz {
+    position: relative;
+    left: 550px;
+    border-radius: 10px;
+}
+
+#gomb {
+    position: relative;
+    top: 50px;
+    right: -420px;
+}
