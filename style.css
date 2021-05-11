@@ -7,10 +7,6 @@ body {
 
 #doboz {
     border: black 3px solid;
-    display: flex;
-    display: block;
-    align-items:flex-start;
-    background-color: red;
     min-width: 0px;
     min-height: 0px;
    }
@@ -78,4 +74,10 @@ body {
     position: relative;
     top: 50px;
     right: -420px;
+}
+
+.dolgok {
+    position:relative;
+    max-width: 100%;
+    height: auto;
 }
